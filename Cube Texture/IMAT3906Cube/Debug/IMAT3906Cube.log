@@ -1,0 +1,11 @@
+﻿  Source.cpp
+c:\users\maliq\downloads\assignment-start-point-malz4144\imat3906cube\src\source.cpp(144): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\maliq\downloads\assignment-start-point-malz4144\imat3906cube\src\source.cpp(310): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\maliq\downloads\assignment-start-point-malz4144\imat3906cube\src\source.cpp(311): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\maliq\downloads\assignment-start-point-malz4144\imat3906cube\src\source.cpp(315): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\maliq\downloads\assignment-start-point-malz4144\imat3906cube\src\source.cpp(316): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\maliq\downloads\assignment-start-point-malz4144\imat3906cube\src\source.cpp(318): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\maliq\downloads\assignment-start-point-malz4144\imat3906cube\src\source.cpp(319): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\maliq\downloads\assignment-start-point-malz4144\imat3906cube\src\source.cpp(329): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\maliq\downloads\assignment-start-point-malz4144\imat3906cube\src\source.cpp(386): warning C4305: 'argument': truncation from 'double' to 'float'
+  IMAT3906Cube.vcxproj -> C:\Users\maliq\Downloads\assignment-start-point-malz4144\Debug\IMAT3906Cube.exe
