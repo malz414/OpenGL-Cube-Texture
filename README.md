@@ -5,7 +5,7 @@ This texture mapping and rendering program utilizes advanced rendering technique
 
 Features
 
-    Yexture texture mapping and rendering
+    Texture mapping and rendering
     Blurring and bloom effects for enhanced visuals
     Normal mapping for realistic surface details
     Parallax mapping for depth perception
@@ -35,7 +35,7 @@ Usage
     Import 3D objects into the program.
     Experiment with different lighting options and effects.
     Utilize blurring and bloom effects to enhance visuals.
-    To **control** the programs WASD keys to move around 
+    To **control** the program WASD keys to move around 
     1, 2 and 3 keys  To turn off and on different lights  
     Q and E keys To turn on/off blur/Bloom
     Explore advanced mapping techniques such as normal mapping and parallax mapping.
